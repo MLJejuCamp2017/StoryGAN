@@ -19,7 +19,7 @@ With StoryGAN, in theory, anyone can make a story book through writing.
 # Setup
 
 
-# Future Work
+# Task
 
 - [ ] Super-Resolution
 - [ ] Segmentation
