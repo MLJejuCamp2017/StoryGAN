@@ -1,11 +1,11 @@
-## StoryGAN: Storytelling with Artistic Images Synthesized from Storybook
+# StoryGAN: Storytelling with Artistic Images Synthesized from Storybook
 
 **This is an ongoing project. To be continuously updated!**
 
-# Overview
+## Overview
 With StoryGAN, in theory, anyone can make a story book through writing.
 
-# Dependencies
+## Dependencies
 
 * Python 3.5
 * TensorFlow 1.2.0
@@ -13,16 +13,16 @@ With StoryGAN, in theory, anyone can make a story book through writing.
 * OpenCV 2.0
 * Pillow
 
-# Data
+## Data
 
 
-# Setup
+## Setup
 
 
-# Task
+## Task
 
 - [ ] Super-Resolution
 - [ ] Segmentation
 - [ ] Visual Analogy
 
-# References
+## References
