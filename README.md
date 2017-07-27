@@ -1,4 +1,28 @@
-# StoryGAN
-From Sequence of texts to sequence of images
+## StoryGAN: Storytelling with Artistic Images Synthesized from Storybook
 
-To be continuously updated!
+**This is an ongoing project. To be continuously updated!**
+
+# Overview
+With StoryGAN, in theory, anyone can make a story book through writing.
+
+# Dependencies
+
+* Python 3.5
+* TensorFlow 1.2.0
+* Numpy 
+* OpenCV 2.0
+* Pillow
+
+# Data
+
+
+# Setup
+
+
+# Future Work
+
+- [ ] Super-Resolution
+- [ ] Segmentation
+- [ ] Visual Analogy
+
+# References
